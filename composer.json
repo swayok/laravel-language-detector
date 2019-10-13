@@ -11,7 +11,7 @@
   ],
   "type": "package",
   "require": {
-    "laravel/framework": ">=5.3|>=6.0",
+    "laravel/framework": ">=5.3|>=6.0"
   },
   "require-dev": {
     "fabpot/php-cs-fixer": "~1.11",
